@@ -6,5 +6,4 @@
 - 👯 I’m looking to collaborate on open-source projects related to data science and machine learning.
 - 💬 Ask me about Python, data visualization, or anything tech-related!
 - 📫 How to reach me: Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/aditya-koshti-b91139212/) or shoot me an email at adityakoshti10@gmail.com.
-- ⚡ Fun fact: I am funny and think I can cook tasty food!! 
 
